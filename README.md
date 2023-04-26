@@ -1,11 +1,9 @@
-## Hello there 👋
+## Hey, I'm Josh 👋
 
-🔭 I am currently working on a lot of different random things
+> I am currently a 3rd year Games Computing student at the [University of Lincoln](https://www.lincoln.ac.uk/course/cgpcmpub/).
 
-👨‍💻 Catch me working with **C#**, **JavaScript** and sometimes **Python**
+🖥️ Checkout my [website](https://joshc.uk/?ref=gh+readme) for more information about me and more detailed write-ups of my projects.
 
-🌱 I'm currently studying Games Computing
+⚒️ I'm currently building video games, experiences, websites, apps, automations and tools.
 
-📫 How to reach me: [joshc.uk/contact](https://joshc.uk/contact)
-
-😄 Pronouns: he/him
+🎓 I am graduating this year; if you're interested in talking with me about opportunities for us to work together, get in touch via [Email](mailto:hi+gh@joshc.uk) or [LinkedIn](https://linkedin.com/in/joshcdev).
