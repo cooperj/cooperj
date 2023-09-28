@@ -1,9 +1,5 @@
 ## Hey, I'm Josh 👋
 
-> I am currently a 3rd year Games Computing student at the [University of Lincoln](https://www.lincoln.ac.uk/course/cgpcmpub/).
+👨‍💻 I am a technician at the University of Lincoln School of Computer Science ([@SoCSTech](https://github.com/socstech)). Who I have a bachelors degree in Games Computing from.
 
-🖥️ Checkout my [website](https://joshc.uk/?ref=gh+readme) for more information about me and more detailed write-ups of my projects.
-
-⚒️ I'm currently building video games, experiences, websites, apps, automations and tools.
-
-🎓 I am graduating this year; if you're interested in talking with me about opportunities for us to work together, get in touch via [Email](mailto:hi+gh@joshc.uk) or [LinkedIn](https://linkedin.com/in/joshcdev).
+🖥️ You can get checkout my [website](https://joshc.uk/?ref=gh+readme) for more information about me and more information about the things I do. Or you can get in touch via [Email](mailto:hi+gh@joshc.uk) or [LinkedIn](https://linkedin.com/in/joshcdev).
